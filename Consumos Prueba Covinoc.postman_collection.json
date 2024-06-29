@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "958be76e-ee4b-4796-9a29-32d6cd30de98",
+		"name": "Consumos Prueba Covinoc",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36636855"
+	},
+	"item": [
+		{
+			"name": "Traer Inventario",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Traer Usuarios",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Guardar Usuarios",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Guardar Inventario",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
